@@ -96,8 +96,6 @@
 <hr>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailhashed&bg_color=ffcfe9&scolor=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-" alt="example">
+" >
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/Nneji123">Nneji123</a></p>
-<p>Last Edited on: 4/30/2022</p> 
