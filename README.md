@@ -3,21 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+Developer;I'm+also+studying+Computer+Engineering"></a>
 </p>
 <p align="center">
-  <a href="https://ifeanyi-nneji.netlify.app" target="_blank">
+  <a href="https://kailashbharadwaj.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&amp;logo=Microsoft-edge&amp;logoColor=white" alt="example">
   </a>
-  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white" alt="example">
-  </a>	
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&amp;body=Hello," target="_blank">
+   <a href="mailto:kailash11605@gmail.com?subject=Feedback%20From%20Github&amp;body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="example">
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+   <a href="www.linkedin.com/in/kailash-bharadwaj" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-  </a>   
-    
-  <a href="https://twitter.com/Neji_14" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="example">
     </a>
   </p>
 <p>I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
@@ -75,13 +68,13 @@
   </a>
 </p>
 <h2 id="projects">Projects</h2>
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/kailhashed/Edumint">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&amp;repo=Website-Blocker&amp;theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kailhashed&amp;repo=edumint&amp;theme=tokyonight">
 </a>  
-<a href="https://github.com/Nneji123/Alien-Shooter">
+<a href="https://github.com/kailhashed/Mendmyhealth">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&amp;repo=Alien-Shooter&amp;theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kailashashed&amp;repo=MendmyHealth&amp;theme=tokyonight">
 </a> 
 <h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 <details> 
