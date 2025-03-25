@@ -95,7 +95,7 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=kailhashed&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=ffcfe9&kailhashedscolor=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailhashed&bg_color=ffcfe9&scolor=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 " alt="example">
 </p>
 <hr>
