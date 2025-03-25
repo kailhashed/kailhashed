@@ -88,11 +88,7 @@
   <br>
   </p>
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&amp;custom_title=Ifeanyi's%20Contribution%20Graph&amp;theme=react-dark"></a>
-  <br>
+<details>  <br>
 </details>
 <br>
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
