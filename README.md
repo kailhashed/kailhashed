@@ -74,17 +74,17 @@
 </a>  
 <a href="https://github.com/kailhashed/Mendmyhealth">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kailashashed&amp;repo=MendmyHealth&amp;theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kailashashed&amp;repo=MendmyHealth&amp;theme=tokyonight">
 </a> 
 <h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" height="192px"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kailash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kailhashed&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" height="192px"></a>
 <br>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" alt="nneji123" height="192px">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kailhashed&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" alt="nneji123" height="192px">
   <br>
   </p>
 </details>
@@ -96,7 +96,7 @@
 </details>
 <br>
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
-<p><img src="https://github-profile-trophy.vercel.app/?username=nneji123&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=kailhashed&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
 <hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
