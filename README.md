@@ -68,9 +68,9 @@
   </a>
 </p>
 <h2 id="projects">Projects</h2>
-<a href="https://github.com/kailhashed/Edumint">
+<a href="https://github.com/kailhashed/Skincancer_detection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kailhashed&amp;repo=edumint&amp;theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kailhashed&amp;repo=Skiincancer_detection&amp;theme=tokyonight">
 </a>  
 <a href="https://github.com/kailhashed/Mendmyhealth">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
